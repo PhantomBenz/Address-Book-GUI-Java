@@ -1,13 +1,4 @@
-## 🧱 Step 1: JavaFX Setup
-
-### ✅ Requirements
-
-* Java JDK (17 or newer recommended)
-* JavaFX SDK (download from [https://gluonhq.com/products/javafx/](https://gluonhq.com/products/javafx/))
-* An IDE like IntelliJ IDEA, Eclipse, or VS Code
-
----
-# Address Book GUI
+# Address Book GUI JAVA
 
 A simple Address Book application built using Java and JavaFX. This is a GUI-based version of a previously made CLI app.
 
