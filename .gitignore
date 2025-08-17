@@ -11,6 +11,8 @@
 .mtj.tmp/
 
 # Package Files #
+*.so
+javafx.properties
 *.jar
 *.war
 *.nar
