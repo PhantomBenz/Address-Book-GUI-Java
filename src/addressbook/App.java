@@ -33,11 +33,11 @@ public class App extends Application {
         stage.setWidth(470);
         stage.setHeight(470);
         stage.setResizable(true);
-        // stage.setX(50);
-        // stage.setY(50);
-        stage.setFullScreen(true);
-        stage.setFullScreenExitHint("Press q to exit");
-        stage.setFullScreenExitKeyCombination(KeyCombination.valueOf("q"));
+        stage.setX(50);
+        stage.setY(50);
+        // stage.setFullScreen(true);
+        // stage.setFullScreenExitHint("Press q to exit");
+        // stage.setFullScreenExitKeyCombination(KeyCombination.valueOf("q"));
 
         stage.setScene(scene);
         stage.show();
