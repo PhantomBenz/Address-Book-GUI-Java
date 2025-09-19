@@ -4,7 +4,8 @@ This directory is intended to hold the `lib` section of JavaFX 24.0.2.
 
 ## Steps to Set Up
 
-1. Download JavaFX SDK 24.0.2 from the [official website](https://openjfx.io/).
+1. * Download JavaFX SDK 24.0.2 from the [official website](https://openjfx.io/).
+   * Download GSON Library from the [official website](https://mvnrepository.com/artifact/com.google.code.gson/gson) 
 2. Extract the contents of the `lib` folder from the downloaded archive.
 3. Copy all files from the `lib` folder and paste them into this directory.
 

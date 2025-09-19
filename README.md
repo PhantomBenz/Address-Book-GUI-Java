@@ -38,7 +38,7 @@ A simple Address Book application built using Java and JavaFX. This is a GUI-bas
      java --module-path /path/to/javafx-sdk/lib --add-modules javafx.controls,javafx.fxml -cp out com.addressbook.Main
      ```
 
-   * Or simply run `Main.java` from your IDE after adding JavaFX as a library/module.
+   * Or simply run `App.java` from your IDE after adding JavaFX as a library/module.
 
 ## Project Structure
 
