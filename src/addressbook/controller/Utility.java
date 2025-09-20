@@ -1,7 +1,5 @@
 package addressbook.controller;
 
-import addressbook.controller.Profile;
-
 import com.google.gson.Gson;
 import java.io.*;
 
