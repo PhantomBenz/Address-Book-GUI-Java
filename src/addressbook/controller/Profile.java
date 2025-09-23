@@ -16,6 +16,12 @@ public class Profile {
         this.password = password;
     }
 
+    public Profile(String username, String password, Contact root) {
+        this.username = username;
+        this.password = password;
+        this.root = root;
+    }
+
     public boolean login(String password) {
         return this.password.equals(password);
     }

@@ -21,13 +21,13 @@ A simple Address Book application built using Java and JavaFX. This is a GUI-bas
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/PhantomBenz/Address-Book-GUI-Java.git
+   git clone https://github.com/sumoondev/Address-Book-GUI-Java.git
    cd Address-Book-GUI-Java
    ```
 
-2. **Download JavaFX SDK**
-   * [https://gluonhq.com/products/javafx/](https://gluonhq.com/products/javafx/)
-   * Extract and configure the path in your IDE.
+2. **Download Libraries**
+   * [What to do](lib/README.md)
+   *Note: Do as per instruction.*
 
 3. **Run the project**
 
